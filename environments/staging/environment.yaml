@@ -7,6 +7,7 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   version: ""
+
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
